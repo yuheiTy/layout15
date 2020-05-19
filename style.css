@@ -1,0 +1,25 @@
+.container{
+    max-width: 960px;
+    height: auto;
+    display: flex;
+    margin: auto;
+}
+.item1,.item2{
+    height: auto;
+    margin: 5px;
+}
+
+.item1{
+    background: rebeccapurple;
+    flex:0 0 30%;
+}
+
+
+
+
+
+
+.item2{
+    background: salmon;
+     width: 700px;
+}
